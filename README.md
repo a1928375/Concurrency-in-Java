@@ -16,4 +16,4 @@
 
 8. Livelock: The concepts of live lock in Java.
 
-9. ThreadTest: The test including thread, concurrency, different types of deadlock, livelock, lock and fair lock in Java.
+9. ThreadTest: The test including thread, concurrency, different types of deadlock, live lock, lock and fair lock in Java.
